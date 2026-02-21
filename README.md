@@ -1,65 +1,38 @@
-# Vidhya Walke
-
-AI & Machine Learning Enthusiast | Data Science Learner | Software Developer  
+AI & Machine Learning Enthusiast | Data Science Learner  
 Goa, India  
 
 ---
 
-## About Me
+## About
 
-I am a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, and Data Science.  
-I enjoy solving real-world problems using data-driven approaches and continuously improving my technical skills.
+Computer Science graduate focused on building strong foundations in Machine Learning and Data Science.  
+I enjoy working with data, understanding how models work internally, and applying them to solve practical problems.
 
-Currently focused on:
+Currently improving:
 - Machine Learning fundamentals
 - Data Structures & Algorithms
 - Python for Data Science
-- Building practical AI projects
+- End-to-end ML project development
 
 ---
 
-## Technical Skills
+## Skills
 
-**Programming:**  
-Python, Java, C, JavaScript  
-
-**AI / Data Science:**  
-NumPy, Pandas, Matplotlib, Scikit-learn  
-
-**Web Technologies:**  
-HTML, CSS, React, Node.js  
-
-**Databases:**  
-MySQL, MongoDB  
-
-**Tools:**  
-Git, GitHub, VS Code, Figma  
+**Languages:** Python, Java, C, JavaScript  
+**Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn  
+**Web:** HTML, CSS, React, Node.js  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-## Projects (Highlighted)
+## Focus
 
-- Machine Learning based prediction models  
-- Data analysis and visualization projects  
-- Full-stack web applications  
-
-(More projects available in repositories.)
+Actively building real-world ML projects and strengthening problem-solving skills to transition into AI/ML and Data Science roles.
 
 ---
 
-## Currently Working On
-
-- Strengthening ML algorithms understanding  
-- Improving problem solving (DSA)  
-- Building portfolio-ready AI projects  
-
----
-
-## Connect With Me
+## Contact
 
 LinkedIn: https://linkedin.com/in/vidhyawalke  
-GitHub: https://github.com/vidzz22  
 Email: vidhya.walke.official@gmail.com
-
-
----
