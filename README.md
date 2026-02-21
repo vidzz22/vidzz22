@@ -1,7 +1,3 @@
-AI & Machine Learning Enthusiast | Data Science Learner  
-Goa, India  
-
----
 
 ## About
 
