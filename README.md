@@ -59,6 +59,7 @@ Git, GitHub, VS Code, Figma
 
 LinkedIn: https://linkedin.com/in/vidhyawalke  
 GitHub: https://github.com/vidzz22  
-Email: vidhyawalk​e022@gmail.com  
+Email: vidhya.walke.official@gmail.com
+
 
 ---
