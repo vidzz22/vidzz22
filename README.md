@@ -51,7 +51,7 @@ Actively building real-world ML projects and strengthening algorithmic thinking 
 
 ## 🌐 Projects & Work
 
-📝 **Blog Website:** Coming Soon  
+📝 **Blog Website:** https://vidhyawalke.blogspot.com/ 
 🌐 **Portfolio:** In Progress  
 
 ---
