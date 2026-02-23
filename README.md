@@ -48,12 +48,7 @@ I believe in writing clean, structured, and readable code while continuously str
 Actively building real-world ML projects and strengthening algorithmic thinking to transition into AI/ML and Data Science roles.
 
 ---
-
-## 🌐 Projects & Work
-
 📝 **Blog Website:** https://vidhyawalke.blogspot.com/ 
-🌐 **Portfolio:** In Progress  
-
 ---
 
 ## 🤝 Open To
