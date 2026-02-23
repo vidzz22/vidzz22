@@ -27,7 +27,7 @@ I believe in writing clean, structured, and readable code while continuously str
 ## 🛠 Technical Skills
 
 **Languages**  
-`Python` • `Java` • `C` • `JavaScript`
+`Python`  • `JavaScript`
 
 **Data Science & ML**  
 `NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
