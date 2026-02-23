@@ -1,34 +1,77 @@
+<h1 align="center">Hi, I'm Vidhya Walke 👋</h1>
 
-## About
-
-Computer Science graduate focused on building strong foundations in Machine Learning and Data Science.  
-I enjoy working with data, understanding how models work internally, and applying them to solve practical problems.
-
-Currently improving:
-- Machine Learning fundamentals
-- Data Structures & Algorithms
-- Python for Data Science
-- End-to-end ML project development
+<p align="center">
+  <b>Computer Science Graduate</b> • AI & Machine Learning Enthusiast • Goa, India
+</p>
 
 ---
 
-## Skills
+## About Me
 
-**Languages:** Python, Java, C, JavaScript  
-**Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn  
-**Web:** HTML, CSS, React, Node.js  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code  
+I am focused on building strong foundations in **Machine Learning and Data Science**.  
+I enjoy understanding how models work internally, analyzing data deeply, and applying intelligent systems to solve real-world problems.
 
----
-
-## Focus
-
-Actively building real-world ML projects and strengthening problem-solving skills to transition into AI/ML and Data Science roles.
+I believe in writing clean, structured, and readable code while continuously strengthening my problem-solving ability.
 
 ---
 
-## Contact
+## Currently Building Expertise In
 
-LinkedIn: https://linkedin.com/in/vidhyawalke  
-Email: vidhya.walke.official@gmail.com
+- Machine Learning fundamentals  
+- Data Structures & Algorithms  
+- Python for Data Science  
+- End-to-end ML project development  
+
+---
+
+## 🛠 Technical Skills
+
+**Languages**  
+`Python` • `Java` • `C` • `JavaScript`
+
+**Data Science & ML**  
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
+
+**Web Development**  
+`HTML` • `CSS` • `React` • `Node.js`
+
+**Databases**  
+`MySQL` • `MongoDB`
+
+**Tools & Platforms**  
+`Git` • `GitHub` • `VS Code`
+
+---
+
+## 🎯 Focus
+
+Actively building real-world ML projects and strengthening algorithmic thinking to transition into AI/ML and Data Science roles.
+
+---
+
+## 🌐 Projects & Work
+
+📝 **Blog Website:** Coming Soon  
+🌐 **Portfolio:** In Progress  
+
+---
+
+## 🤝 Open To
+
+- AI/ML collaborations  
+- Data-driven projects  
+- Open-source contributions  
+- Entry-level AI/ML & Data roles  
+
+---
+
+## 📫 Connect With Me
+
+📌 LinkedIn: https://linkedin.com/in/vidhyawalke  
+📧 Email: vidhya.walke.official@gmail.com
+
+---
+
+<p align="center">
+  <i>“Building today to become better than yesterday.”</i>
+</p>
